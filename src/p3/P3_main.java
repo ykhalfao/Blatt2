@@ -3,9 +3,9 @@ package p3;
 public class P3_main {
 public static void main(String[] args) {
 	int i;
-	i= 35;
+	i= 5;
 	int j;
-	j= 20;
+	j= 10;
 	int k;
 	k= 15;
 	if (i<j) {
